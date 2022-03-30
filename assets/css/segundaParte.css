@@ -1,0 +1,24 @@
+.receitas{
+    background-color: #e5e5e5;
+    display: flex;/*alinha as imagens*/
+    flex-wrap: wrap;/*quebra linah das imagens*/
+    padding: 5rem 0 0 5rem;
+    
+}
+.receita__botao{
+    background-color: #8d0606;;
+    color: white;
+    width: 90px;
+    height: 30px;
+    text-align: center;
+    border-radius: 3px 3px 3px 3px;
+    margin-bottom: 10px;
+}
+.receita__imagem{
+    margin: 40px;
+
+}
+.receita__conteudo{
+    margin: 40px;
+    
+}
